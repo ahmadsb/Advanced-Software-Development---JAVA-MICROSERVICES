@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="0">
+        <name>Ahmad</name>
+    </student>
+    <student id="1">
+        <name>Mahmoud</name>
+    </student>
+    <student id="2">
+        <name>Majed</name>
+    </student>
+</students>
